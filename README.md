@@ -1597,11 +1597,3 @@ plt.show()
 export_cvs = task_df.to_csv("./data/PredictionResults.csv", index = None, header=True)
 ```
 
-How can i improve this in the future?
-
-Spend more time with cleaning data set to incorporate more features to test.
-
-Automate the process by using cloud functionalities (Azure machine learning studios)
-
-Tune the linear regression model, i have use the defult settinging and it would be interesting to see what the r2 score will be if i werer to tune it
-
