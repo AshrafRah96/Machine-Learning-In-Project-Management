@@ -1,4 +1,4 @@
-# Machine Learning In Project Managment
+# Machine Learning In Project Management
 
 Am I performing as expected to reach my target date?
 By how many days am I over or under achieving?
